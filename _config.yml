@@ -17,7 +17,6 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - MAY: "https:/may-han-1105.github.io"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,9 +38,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "gkstnals365@example.com"
- 
-
-#  instagram: 99.11.5M
+  
+#  instagram: [99.11.5M](https://www.instagram.com/99.11.5m/)
 
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -73,7 +71,7 @@ feed_show_tags: true
 
 navbar-col: "#99ff66"
 navbar-text-col: "#99ff66"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#000000"
 page-col: "#000000"
 text-col: "#99ff66"
 link-col: "#99ff66"
